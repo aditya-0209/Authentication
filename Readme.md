@@ -17,7 +17,7 @@
 - Bcrypt js
 
 #### Setup On Your Device
-- Clone the repository ``git clone https://github.com/optimm/Node-Sql-Auth.git``
+- Clone the repository ``git clone https://github.com/aditya-0209/Authentication.git``
 - Install the packages ``npm install``
 - Create an env file
 - Check [EnvExample.md](EnvExample.md) for env
